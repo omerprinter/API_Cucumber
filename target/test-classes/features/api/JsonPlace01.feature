@@ -1,5 +1,5 @@
 Feature: Put_Pojo_Class
-  @Biz
+
   Scenario: Put sorgusu
 
     * JsonPlaceHolder Api Put request icin gerekli URL ve Body hazirla
