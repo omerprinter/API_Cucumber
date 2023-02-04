@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.048">
+    <testcase classname="Put_Pojo_Class" name="Put sorgusu" time="4.634">
+        <system-out><![CDATA[* JsonPlaceHolder Api Put request icin gerekli URL ve Body hazirla..........passed
+* JsonPlaceHolder Api Put request icin Expected Data hazirla................passed
+* JsonPlaceHolder Api Put request sonucunda donen Response'i kaydet.........passed
+* JsonPlaceHolder Api Put request sonucunda donen Response'i assert et......passed
+]]></system-out>
+    </testcase>
+</testsuite>
